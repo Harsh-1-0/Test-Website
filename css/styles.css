@@ -1,0 +1,146 @@
+a {
+  color: #11999E;
+  background-color: #66BFBF;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-decoration: none;
+}
+a:hover{
+  color:#EAF6F6;
+}
+
+body {
+  text-align: center;
+  margin: 0px;
+  font-family: 'Merriweather', serif;
+  background-color: #EAF6F6;
+}
+br{
+  background-color: #66BFBF;
+  margin: 0;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  width=10% margin: 50px auto 0 auto;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #11999E ;
+  border-width: 5px;
+  width: 5%
+}
+
+p {
+  color: #40514E;
+}
+
+span {
+  text-decoration: underline;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  text-shadow: 1px 1px 20px #00ffff;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  border: solid #14cbd1 1px;
+  text-decoration: none;
+  margin-bottom: 30px;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.bottomcloud {
+  position: absolute;
+  left: 100px;
+  bottom: 300px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-top: 30px;
+  padding-bottom: 1px;
+}
+
+.code {
+  width:27%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chilly {
+  width: 27%;
+  float: right;
+  margin-left: 30px;
+  }
+.copyright{
+  color:white;
+}
+.footer-link{
+  }
+.img {
+  height: 400px;
+}
+.des{
+  width: 30%;
+  margin: auto;
+}
+
+.middle-container {
+  background-color: #EAF6F6;
+  margin: 100px 0;
+}
+
+.topcloud {
+  position: absolute;
+  right: 100px;
+  top: 100px;
+}
+
+.Top-Container {
+  position: relative;
+  padding-top: 100px;
+  background-color: #E4F9F5;
+}
+
+.skill-row {
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
